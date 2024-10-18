@@ -1,0 +1,27 @@
+1.conda create -n electric_vehical python=3.7
+
+2.conda activate electric_vehical
+
+3.pip install ipykernel
+
+4.python -m ipykernel install --user --name lelectric_vehical --display-name "electric_vehical"
+
+5.pip install Flask==2.0.2
+pip install pandas==1.3.3
+pip install numpy
+pip install requests==2.31.0
+pip install Pillow==9.5.0
+pip install tensorflow==2.5.0
+pip install Werkzeug==2.2.3
+pip install opencv-python==4.6.0.66
+pip install seaborn==0.11.2
+pip install matplotlib==3.4.3
+pip install scikit-learn
+pip install matplotlib
+pip install reportlab==3.6.12
+pip install PyMySQL==0.10.0
+pip install qrcode==7.4.2
+
+6.cd C:\Users\sudar\Desktop\ev_efficiency _files\work
+7.cd C:\Users\sudar\Desktop\ev_efficiency _files\work\python app.py
+
